@@ -1,0 +1,48 @@
+.bg-nav {
+    /*background-color:#5C6BC0;*/
+    background-color:#4aa177 ;
+}
+
+.btn{
+    background-color: rgb(18, 149, 99);
+    color: rgb(42, 34, 34);
+}
+
+.cover-metin {
+    height: 15vh;
+    background-color: auto;
+}
+
+.cover-metin2{
+    height: 20vh;
+}
+
+.cover-metin3{
+    height: 14vh;
+}
+
+.center{
+    margin: auto;
+}
+#cover {
+    background-color:#bbdbdf;
+    background-size: cover;
+    background-position: left center;
+    background-attachment: fixed;
+    height: 13vh;
+}
+
+.gr{
+    background-color: #bbdbdf;
+    color:rgb(42, 34, 34);
+}
+.Sakarya{
+    /*background-color: #9FA8DA   ;*/
+    background-color: #bbdbdf;
+    color:(91, 44rgb, 114) !important;
+}
+
+
+.table{
+    color:#0d1126 !important;
+}
