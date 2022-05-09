@@ -8,7 +8,7 @@
             $_SESSION["login"]="true";
             $_SESSION["user"]=$kullanici;
             $_SESSION["pass"]=$parola;
-            header("Location:girisbasarili.php");
+            header("Location:girisBasarili.php");
         } else {
             echo "Kullanıcı Adı veya Şifre Yanlış.<br>";
             echo "Giriş sayfasına yönlendiriliyorsunuz.";
